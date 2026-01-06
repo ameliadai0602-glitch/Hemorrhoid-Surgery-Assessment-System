@@ -1,0 +1,5 @@
+{
+  "name": "HemoTrack AI - 痔瘡手術評估系統",
+  "description": "數位化痔瘡手術能量器械選擇標準化評估表，結合 Google Gemini 生成臨床摘要與手術記錄。",
+  "requestFramePermissions": []
+}
